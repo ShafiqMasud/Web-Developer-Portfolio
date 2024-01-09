@@ -102,6 +102,10 @@ nav a {
 .banner-dis {}
 
 /*main section style*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 
 /*about section style*/
@@ -111,4 +115,14 @@ nav a {
     background-color: #FFF8F3;
     margin-top: 130px;
 
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
+}
+#what-i-do{
+    padding: 30px 150px;
 }
