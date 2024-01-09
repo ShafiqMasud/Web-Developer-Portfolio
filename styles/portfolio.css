@@ -84,8 +84,12 @@ nav a {
 }
 
 .banner.profile-pic {
-    width: 500px;
+    width: 0%;
+    size: 1000px;
 
+}
+.profile-pic{
+    width: 700px;
 }
 
 .banner-greeting {
@@ -207,4 +211,5 @@ footer{
 }
 .social-links a{
     margin-right: 25px;
+
 }
